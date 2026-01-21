@@ -1,8 +1,8 @@
-![Arnav's GitHub Banner](https://github.com/user-attachments/assets/6e37e06c-e229-4d28-b3dc-c8839729f28d)
+<!-- ![Arnav's GitHub Banner](https://github.com/user-attachments/assets/6e37e06c-e229-4d28-b3dc-c8839729f28d)
 <br><br><br>
+-->
 
-Final year B.Tech Computer Science student skilled in full-stack development and AI/ML. Experienced in building web applications using MERN stack and PHP, through 2 hands-on internships and 15+ projects. Proficient in Python, Java, C++, and C.
-<br><br><br>
+<!--<br><br><br>
 
 | PROJECTS                                                                                   | TOOLS USED                                                                |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
