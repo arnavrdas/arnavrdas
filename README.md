@@ -1,8 +1,8 @@
-<!-- ![Arnav's GitHub Banner](https://github.com/user-attachments/assets/6e37e06c-e229-4d28-b3dc-c8839729f28d)
+<!--
+![Arnav's GitHub Banner](https://github.com/user-attachments/assets/6e37e06c-e229-4d28-b3dc-c8839729f28d)
 <br><br><br>
--->
 
-<!--<br><br><br>
+<br><br><br>
 
 | PROJECTS                                                                                   | TOOLS USED                                                                |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -32,7 +32,6 @@
 | [Contact Manager](https://github.com/ArnavDas23/Contact-Manager)                           | Java                                                                      |
 | [Parking Ticket Manager](https://github.com/ArnavDas23/Parking-Ticket-Manager)             | C                                                                         |
 
-<!--
 | [BookMyTurf](https://github.com/ArnavDas23/BookMyTurf)                                     | JavaScript, PHP, MySQL                                                    |
 | [Vlogs](https://arnavdas.in/vlogs)                                                         | JavaScript, PHP, MySQL                                                    |
 | [Company Finance Manager](https://github.com/ArnavDas23/Company-Finance-Manager)           | JavaScript, PHP, Oracle                                                   |
@@ -40,9 +39,7 @@
 | [E-Commerce](https://github.com/ArnavDas23/E-Commerce)                                     | JavaScript                                                                |
 | Personality Check                                                                          | JavaScript                                                                |
 | [Academic Timetable Generator](https://github.com/ArnavDas23/Academic-Timetable-Generator) | Python: CherryPy                                                          |
--->
 
-<!--
 <br><br>
 
 **GET IN TOUCH!**
